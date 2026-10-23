@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="99515128-0c7c-48c1-b416-ab9d81a58aed"/>
+  <id value="a4aacd0d-823b-4622-bc87-52715f4df6a4"/>
   <meta>
-    <lastUpdated value="2026-10-23T22:14:55.130+00:00"/>
+    <lastUpdated value="2026-10-23T22:20:29.584+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -181,7 +181,7 @@
         <title value="Klass av vårdkontakt"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-10-23T22:14:55+00:00"/>
+        <date value="2026-10-23T22:20:29+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -190,8 +190,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:29355dd7-74cc-44df-8209-095fae7ad200"/>
-          <timestamp value="2026-10-23T22:15:39+00:00"/>
+          <identifier value="urn:uuid:12add0cc-6a9e-471f-8e0c-a379c3c152fd"/>
+          <timestamp value="2026-10-23T22:20:59+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -367,7 +367,7 @@
         <title value="Kontakttyp – ValueSet"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-10-23T22:14:55+00:00"/>
+        <date value="2026-10-23T22:20:29+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -376,8 +376,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1fd618ed-a87a-493d-992e-2dbfee05713c"/>
-          <timestamp value="2026-10-23T22:15:39+00:00"/>
+          <identifier value="urn:uuid:c3b22f36-20bd-4a2f-b2a8-6cfada86ebfe"/>
+          <timestamp value="2026-10-23T22:20:59+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
